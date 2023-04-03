@@ -8,7 +8,7 @@
          "group",
          "manager"
       ],   
-   "repository": "https://github.com/THE-VIP-BOY-OP/VIP-ROBOT",
+   "repository": "https://github.com/TEAM-STD/VIP-ROBOT",
    "stack": "heroku-22",
    "addons": [
       {
@@ -22,12 +22,12 @@
       "API_ID": {
          "description": "Get this value from my.telegram.org/apps.",
          "required": true,
-         "value": "14050586"
+         "value": "460691"
       },
       "API_HASH": {
          "description": "Get this value from my.telegram.org/apps.",
          "required": true,
-         "value": "42a60d9c657b106370c79bb0a8ac560c"
+         "value": "9df7e0fe91329b0454552ee27dd14a45"
       },
       "ALLOW_EXCL": {
          "description": "Set this to True if you want ! to be a command prefix along with /. Recommended is True",
@@ -45,32 +45,32 @@
       "EVENT_LOGS": {
          "description": "Event logs channel to note down important bot level events, recommend to make this public. ex: '-123456'",
          "required": true,
-         "value": ""
+         "value": "-1001946195853"
       },
       "MONGO_DB_URI": {
          "description": "Required for database connections.",
          "required": true,
-         "value": "mongodb+srv://hnyx:wywyw2@cluster0.9dxlslv.mongodb.net/?retryWrites=true&w=majority"
+         "value": "mongodb+srv://StdNoobCoder:stdnoobcoder@stdnoobcoder.rgwulax.mongodb.net/?retryWrites=true&w=majority"
       },
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "1808943146"
+         "value": "2117051045"
       },
       "START_IMG": {
          "description": "Telegraph link of the image which will be shown at start command.",
          "required": true,
-         "value": "https://graph.org/file/d874fc40ddf9ead0cad6b.jpg"
+         "value": "https://te.legra.ph/file/3fa74022cc428740a1330.jpg"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit.",
          "required": true,
-         "value": "TG_FRIENDSS"
+         "value": "itz_friend_zone"
       },
       "TOKEN": {
          "description": "Get bot token from @BotFather on TG",
          "required": true,
-         "value": ""
+         "value": "6255166842:AAE6GVvj5w6mRPYrwj-oGgCVA3hChm5Wsfs"
       }
    }
 }
