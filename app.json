@@ -55,22 +55,22 @@
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "2117051045"
+         "value": "6126496468"
       },
       "START_IMG": {
          "description": "Telegraph link of the image which will be shown at start command.",
          "required": true,
-         "value": "https://te.legra.ph/file/3fa74022cc428740a1330.jpg"
+         "value": "https://te.legra.ph/file/4d5b318d4274fda4216c7.jpg"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit.",
          "required": true,
-         "value": "itz_friend_zone"
+         "value": "Faizkh_11"
       },
       "TOKEN": {
          "description": "Get bot token from @BotFather on TG",
          "required": true,
-         "value": "6255166842:AAE6GVvj5w6mRPYrwj-oGgCVA3hChm5Wsfs"
+         "value": "6295042522:AAGRi4aFI_mQm6kSWhCT004ApfBfRI5jtMo"
       }
    }
 }
