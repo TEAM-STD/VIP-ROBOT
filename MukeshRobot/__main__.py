@@ -77,7 +77,7 @@ PM_START_TEX = """
 
 PM_START_TEXT = """ 
 
-👀𝐇𝐞𝐲 {} , [🖤](https://graph.org/file/d874fc40ddf9ead0cad6b.jpg)
+👀𝐇𝐞𝐲 {} , [🖤](https://te.legra.ph/file/4d5b318d4274fda4216c7.jpg)
 
 ╔══❰🌺𝐖𝐄𝐋𝐂𝐎𝐌𝐄🌺❱═══❍⊱❁۪۪
 ║
@@ -110,7 +110,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(text="🌷𝐆𝐑𝐎𝐔𝐏🌷", url=f"https://t.me/{SUPPORT_CHAT}"),
-        InlineKeyboardButton(text="🏡𝐎𝐅𝐅𝐈𝐂𝐄🏡", url=f"https://t.me/VIP_CREATORS"),
+        InlineKeyboardButton(text="🏡𝐎𝐅𝐅𝐈𝐂𝐄🏡", url=f"https://t.me/Faizkh_12"),
     ],
     [
         InlineKeyboardButton(text="🌱𝐒𝐎𝐔𝐑𝐂𝐄🌱", callback_data="mukesh_"),
@@ -405,7 +405,7 @@ def Mukesh_about_callback(update: Update, context: CallbackContext):
                 [
                     [
                         InlineKeyboardButton(
-                            text="📍𝐎𝐖𝐍𝐄𝐑📍", url=f"https://t.me/THE_VIP_BOY"
+                            text="📍𝐎𝐖𝐍𝐄𝐑📍", url=f"https://t.me/Faizkh_01"
                         ),
                         InlineKeyboardButton(
                             text="🎄𝐑𝐄𝐏𝐎🎄", 
