@@ -405,7 +405,7 @@ def Mukesh_about_callback(update: Update, context: CallbackContext):
                 [
                     [
                         InlineKeyboardButton(
-                            text="📍𝐎𝐖𝐍𝐄𝐑📍", url=f"https://t.me/Faizkh_01"
+                            text="📍𝐎𝐖𝐍𝐄𝐑📍", url=f"https://t.me/sanki_ravan420"
                         ),
                         InlineKeyboardButton(
                             text="🎄𝐑𝐄𝐏𝐎🎄", 
